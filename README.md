@@ -2,9 +2,9 @@ Civilshpere Evil Twin Dataset (CETD) and Unsafe Website Dataset (UWD) were gener
 
 ************************************************
 # Civilshpere Evil Twin Dataset (CETD)
-Markup : - Classes
-              - Evil twin websites 
-              - Legitimate websites
+* Classes
+  * Evil twin websites 
+  * Legitimate websites
           
 
 
