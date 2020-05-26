@@ -2,7 +2,7 @@ Civilshpere Evil Twin Dataset (CETD) and Unsafe Website Dataset (UWD) were gener
 
 ************************************************
 # Civilshpere Evil Twin Dataset (CETD)
-CETD was generated on Novemeber 2019 for reserach experiments for [https://www.shouldiclick.org/][2] under the [CivilSphere Project](https://www.civilsphereproject.org/). CETD contains 2 classes of samples: evil twin websites and legitimate websites. The raw data of CETD can be found [https://mcfp.felk.cvut.cz/publicDatasets/ShouldIClickDatasets/][3]. This repo contains data models generated from the CETD dataset by features (feature-set-1, feature-set-2) described in the diploma thesis for shouldiclick <link>. 
+CETD was generated on Novemeber 2019 for reserach experiments for [https://www.shouldiclick.org/][2] under the [CivilSphere Project](https://www.civilsphereproject.org/). CETD contains 2 classes of samples: evil twin websites and legitimate websites. The raw data of CETD can be found [https://mcfp.felk.cvut.cz/publicDatasets/ShouldIClickDatasets/][3]. This repo contains only data models generated from the CETD dataset by features (feature-set-1, feature-set-2, DOM-1, DOM-2) described in the diploma thesis for shouldiclick <link>. 
 
 #### Basic stats:
 * Classes
@@ -21,7 +21,7 @@ CETD was generated on Novemeber 2019 for reserach experiments for [https://www.s
 
 ************************************************
 # Unsafe Website Dataset (UWD) 
-UWD was generated on August 2018 for reserach experiments for [https://www.shouldiclick.org/][2] under the [Stratosphere Project](https://www.stratosphereips.org/). UWB contains 2 classes of samples: unsafe websites and legitimate websites. An unsafe website is any website with malicious content or behaviour. The raw data of UWD can be found [https://mcfp.felk.cvut.cz/publicDatasets/ShouldIClickDatasets/][3]. This repo contains data models generated from the UWD dataset by features (feature-set-1, feature-set-2, DOM-1, DOM-2)  described in the diploma thesis for shouldiclick <link>. 
+UWD was generated on August 2018 for reserach experiments for [https://www.shouldiclick.org/][2] under the [Stratosphere Project](https://www.stratosphereips.org/). UWB contains 2 classes of samples: unsafe websites and legitimate websites. An unsafe website is any website with malicious content or behaviour. The raw data of UWD can be found [https://mcfp.felk.cvut.cz/publicDatasets/ShouldIClickDatasets/][3]. This repo contains only data models generated from the UWD dataset by features (feature-set-1, feature-set-2)  described in the diploma thesis for shouldiclick <link>. 
 
 
 #### Basic stats:
