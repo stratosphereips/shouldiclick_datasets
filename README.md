@@ -2,7 +2,9 @@ Civilshpere Evil Twin Dataset (CETD) and Unsafe Website Dataset (UWD) were gener
 
 ************************************************
 # Civilshpere Evil Twin Dataset (CETD)
-CETD was generated on Novemeber 2019 for reserach experiments for [https://www.shouldiclick.org/][2] under the [CivilSphere Project](https://www.civilsphereproject.org/). 
+CETD was generated on Novemeber 2019 for reserach experiments for [https://www.shouldiclick.org/][2] under the [CivilSphere Project](https://www.civilsphereproject.org/). CETD contains 2 classes of samples: evil twin websites and legitimate websites. The raw data of CETD can be found [https://mcfp.felk.cvut.cz/publicDatasets/ShouldIClickDatasets/][3].
+
+## Basic stats:
 * Classes
   * Evil twin websites (positive) 
   * Legitimate websites (negative)
@@ -19,6 +21,18 @@ CETD was generated on Novemeber 2019 for reserach experiments for [https://www.s
 
 ************************************************
 # Unsafe Website Dataset (UWD) 
+UWD was generated on August 2018 for reserach experiments for [https://www.shouldiclick.org/][2] under the [Stratosphere Project](https://www.stratosphereips.org/). UWB contains 2 classes of samples: unsafe websites and legitimate websites. An unsafe website is any website with malicious content or behaviour. The raw data of UWD can be found [https://mcfp.felk.cvut.cz/publicDatasets/ShouldIClickDatasets/][3].
+
+## Basic stats:
+* Classes
+  * Unsafe websites (positive) 
+  * Legitimate websites (negative)
+* Total amount of samples: 20,388
+  * positive: 10,194
+  * negative: 10,194
+* A structure of each sample: 
+  * A [urlscan.io][1] JSON analysis of a website
 
 [1]: https://urlscan.io/
 [2]: https://www.shouldiclick.org/
+[3]: https://mcfp.felk.cvut.cz/publicDatasets/ShouldIClickDatasets/
