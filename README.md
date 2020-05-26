@@ -1,4 +1,12 @@
-# Civilshpere Evil Twin Dataset (CETD) and Unsafe Website Dataset (UWD) 
+Civilshpere Evil Twin Dataset (CETD) and Unsafe Website Dataset (UWD) were generated for ShouldIClick project: https://www.shouldiclick.org/.
+
+************************************************
+# Civilshpere Evil Twin Dataset (CETD)
+Markup : - Classes
+              - Evil twin websites 
+              - Legitimate websites
+          
 
 
-All datasets used and created for ShouldIClick research are available here.
+************************************************
+# Unsafe Website Dataset (UWD) 
